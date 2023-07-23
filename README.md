@@ -1,3 +1,4 @@
+![logo](https://github.com/deshmukhakshay321/deshmukhakshay321/blob/main/nasa-1lfI7wkGWZ4-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Deshmukh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
