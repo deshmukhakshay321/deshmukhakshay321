@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Deshmukh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 - 🌱 I’m currently learning **Tensor Flow**
 
 - 📝 I regularly write articles on [https://medium.com/@deshmukhakshay321](https://medium.com/@deshmukhakshay321)
